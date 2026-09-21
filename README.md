@@ -1,6 +1,6 @@
 # Homelab Write-ups
 
-Short write-ups from my personal SOC homelab (Proxmox-based), built while working toward Blue Team Level 1 and a SOC analyst role. Each one covers the goal, the architecture, and one real problem I ran into and how I diagnosed it — not a full lab journal, just what a reviewer would actually want to read.
+Short write-ups from my personal SOC homelab (Proxmox-based), built while working toward Blue Team Level 1 and a SOC analyst role. Each one covers the goal, the architecture, and one real problem I ran into and how I diagnosed it , not a full lab journal! 
 
 ## Projects
 
