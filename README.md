@@ -1,0 +1,7 @@
+# Homelab Write-ups
+
+Short write-ups from my personal SOC homelab (Proxmox-based), built while working toward Blue Team Level 1 and a SOC analyst role. Each one covers the goal, the architecture, and one real problem I ran into and how I diagnosed it — not a full lab journal, just what a reviewer would actually want to read.
+
+## Projects
+
+- [Splunk AD Lab Deployment](./splunk-ad-lab-deployment.md) — deploying Sysmon and the Splunk Universal Forwarder across a small Active Directory lab via GPO, and a silent log-subscription failure caused by the Forwarder's virtual service account.
