@@ -1,5 +1,7 @@
 # Splunk AD Lab Deployment
 
+**Full troubleshooting log (every dead end, with screenshots):** [splunk-ad-lab-deployment_full.md](./splunk-ad-lab-deployment_full.md)
+
 **Goal:** Get visibility across every machine in the domain without touching them one by one. This is a small AD lab (1 domain controller, 2 workstations), but the deployment problem scales the same way it would on a real network: push agents through Group Policy instead of installing manually on each host.
 
 ```mermaid
