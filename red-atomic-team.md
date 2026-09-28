@@ -204,7 +204,7 @@ Along the way also hit a Telegram `400 Bad Request: message is too long` on an u
 
 ![](images/red-atomic-team/splunk-bot.png)
 
-Trigger History on the alert confirms it fired at `2026-09-22 14:35:00 UTC`, matching the timestamp in the Telegram message exactly. The message itself arrived a bit later than that, since I was still mid-troubleshooting on the script at the time.
+Trigger history on the alert confirms it fired at `2026-09-22 14:35:00 UTC`, matching the timestamp in the Telegram message exactly. The message itself arrived a bit later than that, since I was still mid-troubleshooting on the script at the time.
 
 Also a mention for the later writeups, the folder was originally Red Atomic Team; it was renamed to RedAtomicTeam(without spaces) later, because paths with spaces caused friction when running the techniques from cmd.exe
 
